@@ -22,3 +22,6 @@ Note: If the game does not run for some reason, try switching your mac's display
 If you still face any problem, Feel free to dm me on Discord: ihaschins
 I'll try my level best to help you out.
 Thanks.
+
+Download Link:
+https://archive.org/details/gta-vice-city-intel-64-bit.app
